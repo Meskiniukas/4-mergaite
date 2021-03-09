@@ -7,6 +7,8 @@
 
 _25 group website project #4
 
+Site published at https://meskiniukas.github.io/4-mergaite/
+
 Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
 ## Project features:
@@ -16,10 +18,6 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648
 - relative paths
 - Github pages
 
-## Link
-
-https://meskiniukas.github.io/4-mergaite/
-
-## Author
+## Authors
 
 [Meškiniukas](https://github.com/meskiniukas)
